@@ -36,7 +36,6 @@ Product.init(
       references: {
         // This is a reference to another model
         model: Category,
-   
         // This is the column name of the referenced model
         key: 'id',
       }
