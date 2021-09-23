@@ -35,7 +35,7 @@ Product.init(
       type: DataTypes.INTEGER,
       references: {
         // This is a reference to another model
-        model: Category,
+        model: 'category',
         // This is the column name of the referenced model
         key: 'id',
       }
