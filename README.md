@@ -18,8 +18,7 @@ This is the back end for an e-commerce site. The application uses MySQL2 and Seq
   
 ## Installation 
 
-These dependencies must be installed for this application to work properly: 
-    npm i
+    These dependencies must be installed for this application to work properly: npm i
 
 ## Usage
 
@@ -27,11 +26,9 @@ This application allows the manager of the internet retail company to simply vie
 
 ## Demo link
 
-To start the server run:
-    npm start
-
-To seed the database run:
-    npm run seed 
+    To start the server run: npm start
+ 
+    To seed the database run: npm run seed 
 
  
 ## Contributions
