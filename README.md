@@ -35,7 +35,7 @@ To seed the database run:
 
 This application allows the manager of the internet retail company to simply view, create, update, and delete different products, categories, and tags in their database. 
 
-## Demo link
+## Demo
 
 ![demo_still](assets/demo.png)
 
